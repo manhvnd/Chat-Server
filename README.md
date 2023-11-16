@@ -35,3 +35,4 @@ Above command will install all the neccery packges.
 
 3. Run the app on your mobile using below command -:
    > npm run dev
+# Chat-Server
